@@ -7,7 +7,7 @@ I specialize in developing custom Minecraft plugins (Paper & Bukkit API) and cli
 - **Backend & Plugins:** Crafting efficient Java plugins with solid Paper & Bukkit API implementations.
 - **Client Modding:** Exploring and developing client-side modifications using Fabric.
 - **Build Systems:** Organizing project architecture with Gradle and Maven.
-- **3D Art & Design:** Creating low-poly 3D models and drawing custom textures.
+- **3D Art & Design:** Creating low-poly 3D models in Blockbench and drawing custom textures.
 
 
 <br/>
@@ -19,15 +19,16 @@ I specialize in developing custom Minecraft plugins (Paper & Bukkit API) and cli
 <br/>
 
 
-# 🔧 Technologies & Tools
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="30px" height="30px" /> Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Code-Java-2496ED?style=flat&logo=openjdk&logoColor=white)
 ![Paper/Bukkit](https://img.shields.io/badge/Plugins-Paper%20%2F%20Bukkit-2496ED?style=flat&logo=minecraft&logoColor=white)
 ![Fabric](https://img.shields.io/badge/Mods-Fabric-2496ED?style=flat&logo=fabric&logoColor=white)
-![Gradle](https://img.shields.io/badge/Build-Gradle-2496ED?style=flat&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Build-Maven-2496ED?style=flat&logo=apachemaven&logoColor=white)
+![Blockbench](https://img.shields.io/badge/Art-Blockbench-2496ED?style=flat&logo=blockbench&logoColor=white)
 ![3D Modeling](https://img.shields.io/badge/Art-3D%20Modeling-2496ED?style=flat&logo=blender&logoColor=white)
 ![Texturing](https://img.shields.io/badge/Art-Texture%20Artist-2496ED?style=flat&logo=adobephotoshop&logoColor=white)
+![Gradle](https://img.shields.io/badge/Build-Gradle-2496ED?style=flat&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Build-Maven-2496ED?style=flat&logo=apachemaven&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-2496ED?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell-Bash-2496ED?style=flat&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Tools-Git-2496ED?style=flat&logo=git&logoColor=white)
