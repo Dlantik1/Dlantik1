@@ -36,3 +36,13 @@ I specialize in developing custom Minecraft plugins (Paper & Bukkit API) and cli
 ![Linux](https://img.shields.io/badge/OS-Linux-2496ED?style=flat&logo=linux&logoColor=white)
 
 <br/>
+
+# 📈 GitHub Stats
+ 
+<div align="center">
+   
+![](https://github-readme-stats.vercel.app/api?username=Dlantik1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dlantik1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ 
+</div>
