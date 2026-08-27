@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Dlantik1/Dlantik1/main/image.png)](https://dlantik1.github.io/)
+[![Header](https://raw.githubusercontent.com/Dlantik1/Dlantik1/main/Header.png)](https://dlantik1.github.io/)
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hello!  
 
