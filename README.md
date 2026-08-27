@@ -1,5 +1,7 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hello!   
-   
+[![Header](https://raw.githubusercontent.com/Dlantik1/Dlantik1/main/image.png)](https://dlantik1.github.io/)
+
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hello!  
+
 I'm a **Java Developer**, **3D Modeler**, and **Texture Artist**.
 
 I specialize in developing custom Minecraft plugins (Paper & Bukkit API) and client-side modding with Fabric. I also design 3D models and paint custom textures for game entities and items.
@@ -13,8 +15,8 @@ I specialize in developing custom Minecraft plugins (Paper & Bukkit API) and cli
 <br/>
 <div align="center">
 
-![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FYOUR_USERNAME%2Fvisits%2Fup&query=%24.count&style=flat&logo=github&logoColor=white&label=Visitors&labelColor=2a2a2a&color=2496ED)
- 
+![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FDlantik1%2Fvisits%2Fup&query=%24.count&style=flat&logo=github&logoColor=white&label=Visitors&labelColor=2a2a2a&color=2496ED)
+
 </div>
 <br/>
 
@@ -34,5 +36,3 @@ I specialize in developing custom Minecraft plugins (Paper & Bukkit API) and cli
 ![Git](https://img.shields.io/badge/Tools-Git-2496ED?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-2496ED?style=flat&logo=linux&logoColor=white)
-
-<br/>
